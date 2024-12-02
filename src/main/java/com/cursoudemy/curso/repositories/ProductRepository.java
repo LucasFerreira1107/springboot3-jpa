@@ -1,4 +1,4 @@
-package com.cursoudemy.curso.repository;
+package com.cursoudemy.curso.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.cursoudemy.curso.entities.User;
-import com.cursoudemy.curso.repository.UserRepository;
+import com.cursoudemy.curso.repositories.UserRepository;
 
 @Service
 public class UserService {

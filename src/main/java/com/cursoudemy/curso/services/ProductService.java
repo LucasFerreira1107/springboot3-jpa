@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.cursoudemy.curso.entities.Product;
-import com.cursoudemy.curso.repository.ProductRepository;
+import com.cursoudemy.curso.repositories.ProductRepository;
 
 @Service
 public class ProductService {
